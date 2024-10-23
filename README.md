@@ -6,7 +6,7 @@ This custom component allows you to track Postnord packages in Home Assistant.
 
 1. Install HACS if you haven't already (see https://hacs.xyz/docs/installation/manual).
 2. Add this repository to HACS as a custom repository:
-   - URL: `https://github.com/your_username/postnord`
+   - URL: `https://github.com/olejor94/postnord`
    - Category: Integration
 3. Install the "Postnord Package Tracking" integration from HACS.
 4. Restart Home Assistant.
