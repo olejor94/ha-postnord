@@ -1,0 +1,19 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "data": {
+          "tracking_number": "Tracking Number"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect",
+      "invalid_tracking": "Invalid tracking number",
+      "unknown": "Unexpected error"
+    },
+    "abort": {
+      "already_configured": "This tracking number is already configured"
+    }
+  }
+}
