@@ -1,0 +1,11 @@
+{
+  "domain": "postnord",
+  "name": "Postnord Package Tracking",
+  "documentation": "https://github.com/your_username/postnord",
+  "dependencies": [],
+  "codeowners": ["@your_username"],
+  "requirements": ["postnord-api==0.1.0"],
+  "config_flow": true,
+  "iot_class": "cloud_polling",
+  "version": "0.1.0"
+}
