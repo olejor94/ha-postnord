@@ -1,7 +1,7 @@
 {
-  "domain": "postnord",
+  "domain": "ha-postnord",
   "name": "Postnord Package Tracking",
-  "documentation": "https://github.com/olejor94/postnord",
+  "documentation": "https://github.com/olejor94/ha-postnord",
   "dependencies": [],
   "codeowners": ["@olejor94"],
   "requirements": ["postnord-api==0.1.0"],
